@@ -1,0 +1,14 @@
+:root {
+--bgColor05: #43010b;
+--bgColor04: #58010e;
+--bgColor03: #670111;
+--bgColor01: #860116;
+--colorBrand: #f7a9e5;
+--colorBrandTransparent: rgba(247,169,229,.2);
+--links: #f50829;
+--ChatTextColor: #ffffff;
+--ChannelsSelectedTextColor: #ffffff;
+--ChannelsDefaultTextColor: #fefdff;
+--ChannelsDarkTextColor: #b2b1b3;
+--membersListTextsColor: #cbcacc;
+}
